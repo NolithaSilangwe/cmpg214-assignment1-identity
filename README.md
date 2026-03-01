@@ -1,12 +1,4 @@
-# CMPG214 – Assignment 1
-
-Designing Yourself: Identity, Constraint, and Visual Meaning
-
-This repository contains:
-- Personal logomark
-- Supporting infographic
-- 100-word reflection
-
-This project explores identity through constraint and intentional design.
-
-North-West University
+## Assignment 2 - Task 1:  Bibliography
+- Topic: Communication Issues in the Modern Workplace
+- Role: Business Analyst
+- [View  Bibliography](./Nolitha_Silangwe_55869084__Bibliography.pdf)
