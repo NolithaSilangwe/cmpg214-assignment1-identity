@@ -23,9 +23,9 @@ This repository contains my submitted work for CMPG214, including my personal id
 - **Role:** Business Analyst
 - [View Media Review PDF](./Nolitha_Silangwe_55869084_Media_Review.pdf)
 
-## Assignment 3: Customer Satisfaction Survey
-Role: Business Analyst
-Survey: TechFlow Analytics Platform – 10-question mixed methods design
-Focus: Data accessibility, integration reliability, support effectiveness
-Implementation: Stratified sampling, 1,360 invites, 4-5 min completion
-View Survey Implementation PDF | [Live Survey](https://docs.google.com/forms/d/e/1FAIpQLSclUcbcmb7op7GTjxK51sWEj9fQVh9A21KYvX1k39VskeUuBQ/viewform?usp=header)
+## Assignment 3: Customer Satisfaction Survey Design
+- **Role:** Business Analyst
+- **Task:** Develop a survey measuring data accessibility, integration reliability, and support effectiveness
+- **Due Date:** 27 March 2026
+- **Survey Link:** [https://tinyurl.com/2py8dt2a](https://tinyurl.com/2py8dt2a)
+- [View Survey Implementation Plan PDF](./Nolitha_Silangwe_55869084_CMPG214_Task3_Survey.pdf)
