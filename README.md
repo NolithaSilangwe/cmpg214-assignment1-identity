@@ -25,8 +25,7 @@ This repository contains my submitted work for CMPG214, including my personal id
 
 ## Assignment 3: Customer Satisfaction Survey
 Role: Business Analyst
-Survey: TechFlow Analytics Platform customer satisfaction assessment
+Survey: TechFlow Analytics Platform – 10-question mixed methods design
 Focus: Data accessibility, integration reliability, support effectiveness
-View Assignment PDF | View Live Survey
-
-## Repository Structure
+Implementation: Stratified sampling, 1,360 invites, 4-5 min completion
+View Survey Implementation PDF | [Live Survey](https://docs.google.com/forms/d/e/1FAIpQLSclUcbcmb7op7GTjxK51sWEj9fQVh9A21KYvX1k39VskeUuBQ/viewform?usp=header)
