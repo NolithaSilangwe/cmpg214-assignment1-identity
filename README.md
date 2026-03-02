@@ -23,6 +23,10 @@ This repository contains my submitted work for CMPG214, including my personal id
 - **Role:** Business Analyst
 - [View Media Review PDF](./Nolitha_Silangwe_55869084_Media_Review.pdf)
 
----
+## Assignment 3: Customer Satisfaction Survey
+Role: Business Analyst
+Survey: TechFlow Analytics Platform customer satisfaction assessment
+Focus: Data accessibility, integration reliability, support effectiveness
+View Assignment PDF | View Live Survey
 
 ## Repository Structure
